@@ -1,7 +1,8 @@
 # SVG Random Art Generator
 
 You can use the generator to create some beautiful svg patterns
-WHY are you waiting go grab one! -> [here](https://devloop01.github.io/svg-art-generator/)
+
+What are you waiting for go grab one! -> [HERE](https://devloop01.github.io/svg-art-generator/)
 
 ### Codepen [Demo](https://codepen.io/dev_loop/full/gOayXRo)
 
