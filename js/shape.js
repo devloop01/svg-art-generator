@@ -1,4 +1,4 @@
-export default class Circle {
+export default class Shape {
 	constructor(options = {}) {
 		this.position = options.position;
 		this.fillColor = options.fillColor;
